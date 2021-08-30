@@ -6,7 +6,15 @@
 
 *General*
 
+- Identificar distintos tipos de Capacitores e Inductores, y conocer sus aplicación y su comportamiento al momento de ser implementad en un circuito electrónico.
+
 *Especificos*
+
+- Obtener los valores teóricos y experimentales de las bobinas y capacitores que están presentes en los circuitos planteados.
+
+- Observar la aplicación del osciloscopio en circuitos electrónicos, reconocer las ondas que se producen al momento de varias la frecuencia en dicho circuito.
+
+- Identificar la variación de voltaje que existe al momento de cambiar la frecuencia a distintos valores por medio del osciloscopio.
 
 2. MARCO TEÓRICO 
 
