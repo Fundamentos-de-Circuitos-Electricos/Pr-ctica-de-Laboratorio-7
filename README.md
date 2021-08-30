@@ -36,4 +36,18 @@
 
 6. CONCLUSIONES
 
+- Observamos e identificamos diferentes tipos de condensadores e inductores y la forma de como resolver de manera algebraica, la forma en como interactuan estos elementos en el circuito electrónico.
+
+- El valor de la caída de tensión medida con el multímetro corresponde al valor medidos de la caída de tensión media con el osciloscopio.
+
 7. BIBLIOGRAFÍA
+
+- Curramarzo, G. (12 de Marzo de 2019). El Capacitor: Definición, tipos, uso, circuitos y funcionamiento. Obtenido de El Capacitor: Definición, tipos, uso, circuitos y funcionamiento: https://refrigeracionescobar.com.ar/el-capacitor-definicion-tipos-uso-circuitos-y-funcionamiento/
+
+- Ingeniería Mecafenix. (12 de Abril de 2017). Que son las bobinas y sus tipos. Obtenido de Que son las bobinas y sus tipos: https://www.ingmecafenix.com/electronica/bobinas/
+
+- Ingeniería Mecafenix. (20 de febrero de 2019 ). ¿Qué es un capacitor? y sus tipos. Obtenido de ¿Qué es un capacitor? y sus tipos: https://www.ingmecafenix.com/electronica/el-capacitor/
+
+- Plantas Electricas. (09 de Abril de 2018). Qué es un inductor y cómo funciona. Obtenido de Qué es un inductor y cómo funciona: https://www.luzplantas.com/que-es-un-inductor-y-como-funciona/
+
+
