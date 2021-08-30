@@ -20,6 +20,7 @@
 
 ![Diagrama en blanco (14)](https://user-images.githubusercontent.com/85137398/131413829-938bec0c-1a73-48b2-9df4-33d120b884af.png)
 
+![Diagrama en blanco (15)](https://user-images.githubusercontent.com/85137398/131416052-598b504e-f0bf-4ef2-b2bd-d2a073b39d35.png)
 
 3. EXPLICACIÓN DEL PROCESO
 
