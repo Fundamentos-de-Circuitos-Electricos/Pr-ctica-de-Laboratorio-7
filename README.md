@@ -18,6 +18,7 @@
 
 2. MARCO TEÓRICO 
 
+![Diagrama en blanco (14)](https://user-images.githubusercontent.com/85137398/131413829-938bec0c-1a73-48b2-9df4-33d120b884af.png)
 
 
 3. EXPLICACIÓN DEL PROCESO
