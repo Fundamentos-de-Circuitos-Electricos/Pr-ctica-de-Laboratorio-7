@@ -24,11 +24,23 @@
 
 3. EXPLICACIÓN DEL PROCESO
 
-- Material y equipo requerido
+*- Material y equipo requerido*
 
-- Descripcion de equipo y material
+- Genrador de señales.
 
-- Armado del circuito
+- Fuente DC.
+
+- Osciloscopio.
+
+- Protoboard.
+
+- Multimetro.
+
+- Cables conductores.
+
+- Resistencias, bobinas y capacitores.
+
+*- Armado del circuito*
 
 4. RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
 
