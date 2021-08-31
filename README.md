@@ -66,7 +66,7 @@ b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre lo
 
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
-Mediciones en el Osciloscopio Capitulo 1
+Mediciones en el Osciloscopio Circuito 1
 
 * 0 Hz 
 
