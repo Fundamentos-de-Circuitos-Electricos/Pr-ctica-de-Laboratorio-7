@@ -54,6 +54,9 @@
 
 ![image](https://user-images.githubusercontent.com/84390820/131446076-6e9ea50c-f450-4cfb-8f71-7e76be0497ea.png)
 
+* Diagrama en DCAClab
+
+![image](https://user-images.githubusercontent.com/84390686/131458202-4dc78a54-bbf4-4b04-9584-60608b76e4cf.png)
 
 4. RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
 
