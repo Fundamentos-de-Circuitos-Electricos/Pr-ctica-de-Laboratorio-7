@@ -1,4 +1,4 @@
-![caratula lab 7_page-0001](https://user-images.githubusercontent.com/85137398/131408755-fe2a0024-fb23-4d50-a1e5-0331f2430f82.jpg)
+![Portada_page-0001 (11)](https://user-images.githubusercontent.com/84390820/131432540-6a920ab7-0a31-484e-aa71-90fcf7af62c7.jpg)
 
 # Práctica de Laboratorio 7
 
