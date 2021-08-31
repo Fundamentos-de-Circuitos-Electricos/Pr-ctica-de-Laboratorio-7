@@ -48,7 +48,7 @@
 
 * Diagrama en DCAClab
 
-![image](https://user-images.githubusercontent.com/84390820/131445870-fa23d86c-9fae-41ce-a6c5-bea32a5177b9.png)
+![image](https://user-images.githubusercontent.com/84390820/131504281-90dddf69-9f4f-4c7a-b1bb-2b53d94f2a73.png)
 
 2.- Construya el circuito mostrado en la Figura 2
 
@@ -94,7 +94,7 @@ Mediciones en el Osciloscopio Capitulo 1
 
 * Análisis del Circuito 1 
 
-![image](https://user-images.githubusercontent.com/84390820/131446628-3f35995f-f4ad-464a-a972-94131db47bcd.png)
+![image](https://user-images.githubusercontent.com/84390820/131509464-59a4a4bc-a7ac-42f2-b0b0-1907db65138c.png)
 
 Mediciones en el Osciloscopio Circuito 2
 
