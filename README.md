@@ -46,6 +46,8 @@
 
 ![image](https://user-images.githubusercontent.com/84390820/131446040-4e28655f-a4ea-406a-ac90-45ee394d36af.png)
 
+* Diagrama en DCAClab
+
 ![image](https://user-images.githubusercontent.com/84390820/131445870-fa23d86c-9fae-41ce-a6c5-bea32a5177b9.png)
 
 2.- Construya el circuito mostrado en la Figura 2
