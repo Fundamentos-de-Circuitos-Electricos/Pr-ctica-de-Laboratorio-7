@@ -150,6 +150,8 @@ Los condensadores dejan pasar corriente, y tiene la presencia del voltaje, todo 
  
 6. VIDEO
 
+https://youtu.be/tq0AffpdNN8
+
 7. CONCLUSIONES
 
 - Observamos e identificamos diferentes tipos de condensadores e inductores y la forma de como resolver de manera algebraica, la forma en como interactuan estos elementos en el circuito electrónico.
